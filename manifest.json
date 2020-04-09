@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Savor",
+  "version": "1.0",
+  "description": "It's a recipe saver for you",
+  "browser_action": {
+    "default_icon": "savor16.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "savor16.png",
+    "48": "savor48.png",
+    "128": "savor128.png"
+  },
+  "background": {
+    "scripts": ["action.js"]
+  },
+  "options_page" : "options.html",
+  "permissions": ["storage","contextMenus","tabs"]
+}
