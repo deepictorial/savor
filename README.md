@@ -17,3 +17,7 @@ How to install this Chrome-extension:
 2. open chrome://extensions/ in new tab in chrome, enable the "Developer mode" on top right corner.
 3. click on "Load Unpacked and select the folder where you cloned this repo.
 4. this should be it, select any text and right click mouse to see "Add Recipe" appear as a context menu option.
+
+
+Packed version(.crx file): 
+the packed `.crx` version of the extension is uploaded to the `/extension` folder that can be directly downloaded and added to your extensions. However Chrome is not allowing non-webstore extensions to be enabled at this time for their security purposes.
