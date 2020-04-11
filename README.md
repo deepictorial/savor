@@ -1,5 +1,5 @@
 # savor
-Recipes to savour(savor), recipes that are your saviour(savior), it's a recipe saver.
+It's a recipe saver that you can later savor.
 
 **It is a Chrome extension for saving recipes from Chrome browser to local file:**
 1. creates new recipe name with your selected text.
